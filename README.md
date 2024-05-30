@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/P4ZD4N)
 
-- 📝 I regularly write articles on [my blog](https://wiktorchudy.me/blog)
+- 📝 I regularly write articles on [my blog](https://wiktorchudy.me/)
 
 - 📫 How to reach me **wiko700@gmail.com**
 
