@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Aspiring Java Developer and Computer Science Student @ 🇵🇱 PJATK 🇯🇵</h3>
 
-- 🔭 I’m currently working on [Bibliotheca Chudyana](https://github.com/P4ZD4N/bibliotheca-chudyana)
+- 🔭 I’m currently working on [GloboGym](https://github.com/P4ZD4N/globogym)
 
-- 🌱 I’m currently learning **Spring and Unit Testing (JUnit, Mockito, MockMvc)**
+- 🌱 I’m currently learning **JavaFX**
 
-- 🚀 In the near future I would like to learn **JavaScript and Docker**
+- 🚀 In the near future I would like to learn **Angular and Docker**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/P4ZD4N)
 
