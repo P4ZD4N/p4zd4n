@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">Aspiring Java Developer and Computer Science Student @ 🇵🇱 PJATK 🇯🇵</h3>
+<h3 align="center">Aspiring Software Developer and Computer Science Student @ 🇵🇱 PJATK 🇯🇵</h3>
 
 - 🔭 I’m currently working on Baloney
 
