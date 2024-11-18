@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">Aspiring Software Developer and Computer Science Student @ 🇵🇱 PJATK 🇯🇵</h3>
+<h3 align="center">Aspiring Software Developer and Computer Science Student @ PJATK </h3>
 
 - 🔭 I’m currently working on [**Baloney**](https://github.com/surferhand) (surferhand's app to share memories with friends) and [**Miesiany Miesiany Kebab**](https://github.com/P4ZD4N/miesiany-miesiany-kebab)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **C++, Network programming and Angular**
 
 - 🚀 In the near future I would like to learn **Design Patterns and Kotlin**
 
@@ -21,6 +21,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,html,css,sass,bootstrap,spring,hibernate,angular,mysql,postgresql,bash,figma,maven,postman,photoshop,git,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,ts,js,bash,html,css,sass,bootstrap,spring,hibernate,angular,mysql,postgresql,figma,maven,postman,photoshop,git,linux,docker)](https://skillicons.dev)
 
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4zd4n&layout=compact&theme=transparent" alt=p4zd4n /></p>
