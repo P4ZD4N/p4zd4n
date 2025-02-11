@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on
+🔭 I’m **currently** working on
 - [**Baloney**](https://github.com/surferhand) (surferhand's app to share memories with friends),
 - [**DBee**](https://github.com/P4ZD4N/dbee)
 - [**Miesiany Miesiany Kebab**](https://github.com/P4ZD4N/miesiany-miesiany-kebab)
 
-🌱 I’m constantly improving my skills in
+🌱 I’m **constantly improving** my skills in
 - Backend Development (with focus on **Spring Framework** and related technologies).
 - Frontend Development (specializing in **Angular**).
 - DevOps tools.
@@ -16,12 +16,12 @@
 
 🚀 I'm **always ready and open** to learn new technologies
 
-📚 In the near future I would like to learn 
+📚 In the near future **I would like to learn**
 - Docker
 - Kubernetes
 - Microservices
 
-📝 I regularly write articles on [my blog](https://wiktorchudy.me/)
+📝 I **regularly** write articles on [my blog](https://wiktorchudy.me/)
 
 📫 Reach me at [**wiktorchudy@proton.me**](mailto:wiktorchudy@proton.me)
 
