@@ -1,26 +1,61 @@
-<h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">Aspiring Software Developer and Computer Science Student @ PJATK </h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Wiktor&reversal=false&section=header&textBg=false&desc=Aspiring%20Software%20Engineer%20|%20Computer%20Science%20Student%20@%20PJATK&descSize=22&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60)
 
-- 🔭 I’m currently working on [**Baloney**](https://github.com/surferhand) (surferhand's app to share memories with friends) and [**Miesiany Miesiany Kebab**](https://github.com/P4ZD4N/miesiany-miesiany-kebab)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **C++, Network programming and Angular**
+🔭 I’m currently working on
+- [**Baloney**](https://github.com/surferhand) (surferhand's app to share memories with friends),
+- [**DBee**](https://github.com/P4ZD4N/dbee)
+- [**Miesiany Miesiany Kebab**](https://github.com/P4ZD4N/miesiany-miesiany-kebab)
 
-- 🚀 In the near future I would like to learn **Design Patterns and Kotlin**
+🌱 I’m constantly improving my skills in
+- Backend Development (with focus on **Spring Framework** and related technologies).
+- Frontend Development (specializing in **Angular**).
+- DevOps tools.
+- Software architecture, Clean Code and good coding practises.
+- Business-oriented approach.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/P4ZD4N)
+🚀 I'm **always ready and open** to learn new technologies
 
-- 📝 I regularly write articles on [my blog](https://wiktorchudy.me/)
+📚 In the near future I would like to learn 
+- Docker
+- Kubernetes
+- Microservices
 
-- 📫 How to reach me **wiko700@gmail.com**
+📝 I regularly write articles on [my blog](https://wiktorchudy.me/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wiktor-chudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiktor-chudy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/choodini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="choodini" height="30" width="40" /></a>
+📫 Reach me at [**wiktorchudy@proton.me**](mailto:wiktorchudy@proton.me)
+
+## 🛠️ Main tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,bash,spring,hibernate,angular,mysql,postgresql,maven,git,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🔧 Also worked with
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,ts,js,bash,html,css,sass,bootstrap,spring,hibernate,angular,mysql,postgresql,figma,maven,postman,photoshop,git,linux,docker)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,bootstrap,figma,postman,photoshop,aws,sass,linux,docker" />
+</p>
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4zd4n&layout=compact&theme=transparent" alt=p4zd4n /></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=p4zd4n&show_icons=true&theme=transparent" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4zd4n&layout=compact&theme=transparent"height ="180" />
+</p>
+
+## 🌟 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wiktor-chudy/?locale=en_US">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wiktorchudy.me/">
+    <img src="https://img.shields.io/badge/-Website-orange?style=for-the-badge" />
+  </a>
+  <a href="https://x.com/p4zd4n">
+    <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge" />
+  </a>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
