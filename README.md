@@ -1,11 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Wiktor&reversal=false&section=header&textBg=false&desc=Aspiring%20Software%20Engineer%20|%20Computer%20Science%20Student%20@%20PJATK&descSize=22&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Wiktor&reversal=false&section=header&textBg=false&desc=Software%20Developer%20Intern%20@%20Santander%20Bank%20Polska&descSize=22&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60)
 
 ## 🚀 About Me
 
+🎓 I'm also **Computer Science** Student @ Polish Japanese Academy of Information Technology
+
 🔭 I’m **currently** working on
 - [**Baloney**](https://github.com/surferhand) (surferhand's app to share memories with friends),
-- [**DBee**](https://github.com/P4ZD4N/dbee)
 - [**Miesiany Miesiany Kebab**](https://github.com/P4ZD4N/miesiany-miesiany-kebab)
+- [**Personal website**](https://github.com/P4ZD4N/wiktor-chudy)
 
 🌱 I’m **constantly improving** my skills in
 - Backend Development (with focus on **Spring Framework** and related technologies).
@@ -16,25 +18,20 @@
 
 🚀 I'm **always ready and open** to learn new technologies
 
-📚 In the near future **I would like to learn**
-- Docker
-- Kubernetes
-- Microservices
-
-📝 I **regularly** write articles on [my blog](https://wiktorchudy.me/)
+📝 You can get to know me better and read my articles at [my website](https://wiktorchudy.me/)
 
 📫 Reach me at [**wiktorchudy@proton.me**](mailto:wiktorchudy@proton.me)
 
 ## 🛠️ Main tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,bash,spring,hibernate,angular,mysql,postgresql,maven,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,angular,hibernate,html,css,sass,bootstrap,maven,mysql,postgresql,git,linux,docker" />
 </p>
 
 ## 🔧 Also worked with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,bootstrap,figma,postman,photoshop,aws,sass,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,cpp,bash,figma,postman,photoshop,aws" />
 </p>
 
 ## 📊 GitHub Stats
