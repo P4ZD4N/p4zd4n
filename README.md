@@ -4,11 +4,6 @@
 
 🎓 I'm also **Computer Science** Student @ Polish Japanese Academy of Information Technology
 
-🔭 I’m **currently** working on
-- [**Baloney**](https://github.com/surferhand) (surferhand's app to share memories with friends),
-- [**Miesiany Miesiany Kebab**](https://github.com/P4ZD4N/miesiany-miesiany-kebab)
-- [**Personal website**](https://github.com/P4ZD4N/wiktor-chudy)
-
 🌱 I’m **constantly improving** my skills in
 - Backend Development (with focus on **Spring Framework** and related technologies).
 - Frontend Development (specializing in **Angular**).
