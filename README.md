@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Wiktor&reversal=false&section=header&textBg=false&desc=Software%20Developer%20Intern%20@%20Santander%20Bank%20Polska&descSize=22&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Wiktor&reversal=false&section=header&textBg=false&desc=Software%20Engineer%20Intern%20@%20Santander%20Bank%20Polska&descSize=22&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60)
 
 ## 🚀 About Me
 
