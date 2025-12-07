@@ -1,53 +1,72 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Wiktor&reversal=false&section=header&textBg=false&desc=Software%20Engineer%20Intern%20@%20Santander%20Bank%20Polska&descSize=22&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60)
+# Hi there, I'm Wiktor Chudy 👋
 
-## 🚀 About Me
+⚡ Full of energy and commitment Software Engineer who combine solid frontend and backend skills with a strong focus on business impact. Currently pursuing degree in Computer Science while actively delivering fullstack solutions using Java, Spring and Angular that deliver measurable value. Passionate about clean code, best coding practices and elegant technical solutions. Always looking for opportunities where I can contribute to impactful projects that help businesses grow and succeed.
 
-🎓 I'm also **Computer Science** Student @ Polish Japanese Academy of Information Technology
+## 🌱 My current focus
 
-🌱 I’m **constantly improving** my skills in
-- Backend Development (with focus on **Spring Framework** and related technologies).
-- Frontend Development (specializing in **Angular**).
-- DevOps tools.
-- Software architecture, Clean Code and good coding practises.
-- Business-oriented approach.
+- **Backend Development** (focused on Spring Framework, Django and related technologies)  
+- **Frontend Development** (focused on Angular)  
+- **DevOps** tools 
+- **Best practises** (Software architecture and Clean Code) 
+- **Business-oriented approach** (Understanding customer needs and translating it into effective solutions)
 
-🚀 I'm **always ready and open** to learn new technologies
+## 💼 Proffesional experience
 
-📝 You can get to know me better and read my articles at [my website](https://wiktorchudy.me/)
+- **Software Engineer Intern** at Santander Bank Polska (TypeScript, Angular)
+- **Software Engineer Apprentice** at Grupa ABS (JavaScript, HTML, CSS)
 
-📫 Reach me at [**wiktorchudy@proton.me**](mailto:wiktorchudy@proton.me)
+## 🛠️ Main Tech Stack
 
-## 🛠️ Main tech stack
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,angular,hibernate,html,css,sass,bootstrap,maven,mysql,postgresql,git,linux,docker" />
-</p>
+### Backend
 
-## 🔧 Also worked with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-CA4245?style=for-the-badge&logo=mockito&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,cpp,bash,figma,postman,photoshop,aws" />
-</p>
+### Methodologies & Approaches
 
-## 📊 GitHub Stats
+![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=object-oriented-programming&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-F7DF1E?style=for-the-badge&logo=uml&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p4zd4n&show_icons=true&theme=transparent" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4zd4n&layout=compact&theme=transparent"height ="180" />
-</p>
+### DevOps & Tools
 
-## 🌟 Connect With Me
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wiktor-chudy/?locale=en_US">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wiktorchudy.me/">
-    <img src="https://img.shields.io/badge/-Website-orange?style=for-the-badge" />
-  </a>
-  <a href="https://x.com/p4zd4n">
-    <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge" />
-  </a>
-</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=sql&logoColor=white)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/wiktor-chudy/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://www.wiktorchudy.me/)
+[![Email](https://img.shields.io/badge/Email-wiktorchudy@proton.me-D14836?style=for-the-badge)](mailto:wiktorchudy@proton.me)
+
+## 🚀 What's Next
+
+### Open to
+- **Fullstack**, **Frontend** or **Backend** Engineer roles
+- Projects with **Spring** / **Django** / **Angular** tech stack
+- Collaborate with teams focused on solving meaningful problems
+
+### 💡 I'm always ready and open to learn new technologies!  
