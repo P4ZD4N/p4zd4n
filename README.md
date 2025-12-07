@@ -15,7 +15,7 @@
 - **Software Engineer Intern** at Santander Bank Polska (TypeScript, Angular)
 - **Software Engineer Apprentice** at Grupa ABS (JavaScript, HTML, CSS)
 
-## 🛠️ Main Tech Stack
+## 🛠️ Main tech stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
@@ -56,13 +56,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=sql&logoColor=white)
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/wiktor-chudy/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://www.wiktorchudy.me/)
 [![Email](https://img.shields.io/badge/Email-wiktorchudy@proton.me-D14836?style=for-the-badge)](mailto:wiktorchudy@proton.me)
 
-## 🚀 What's Next
+## 🚀 What's next
 
 ### Open to
 - **Fullstack**, **Frontend** or **Backend** Engineer roles
