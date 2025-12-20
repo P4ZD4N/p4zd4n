@@ -1,6 +1,6 @@
 # Hi there, I'm Wiktor Chudy 👋
 
-⚡ Full of energy and commitment Software Engineer who combine solid frontend and backend skills with a strong focus on business impact. Currently pursuing degree in Computer Science while actively delivering fullstack solutions using Java, Spring and Angular that deliver measurable value. Passionate about clean code, best coding practices and elegant technical solutions. Always looking for opportunities where I can contribute to impactful projects that help businesses grow and succeed.
+⚡ Full of energy and commitment Software Engineer who combine solid frontend and backend skills with a strong focus on business impact. Currently pursuing degree in Computer Science while actively delivering fullstack solutions (Java, Spring and Angular) that deliver measurable value. Passionate about clean code, best coding practices and elegant technical solutions. Always looking for opportunities where I can contribute to impactful projects that help businesses grow and succeed.
 
 ## 🌱 My current focus
 
@@ -12,8 +12,8 @@
 
 ## 💼 Proffesional experience
 
-- **Software Engineer Intern** at Santander Bank Polska (TypeScript, Angular)
-- **Software Engineer Apprentice** at Grupa ABS (JavaScript, HTML, CSS)
+- **Intern Frontend Developer** at Santander Bank Polska (TypeScript, Angular)
+- **Apprentice Frontend Developer** at Grupa ABS (JavaScript, HTML, CSS)
 
 ## 🛠️ Main tech stack
 
@@ -66,7 +66,7 @@
 
 ### Open to
 - **Fullstack**, **Frontend** or **Backend** Engineer roles
-- Projects with **Spring** / **Django** / **Angular** tech stack
+- Projects with **Spring** / **Angular** tech stack
 - Collaborate with teams focused on solving meaningful problems
 
 ### 💡 I'm always ready and open to learn new technologies!  
