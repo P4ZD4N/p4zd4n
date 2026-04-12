@@ -4,7 +4,7 @@
 
 ## 🌱 My current focus
 
-- **Backend Development** (focused on Spring Framework, Django and related technologies)  
+- **Backend Development** (focused on Spring Framework and related technologies)  
 - **Frontend Development** (focused on Angular)  
 - **DevOps** tools 
 - **Best practises** (Software architecture and Clean Code) 
@@ -12,6 +12,7 @@
 
 ## 💼 Proffesional experience
 
+- **Frontend Developer** at Santander Bank Polska (TypeScript, Angular)
 - **Intern Frontend Developer** at Santander Bank Polska (TypeScript, Angular)
 - **Apprentice Frontend Developer** at Grupa ABS (JavaScript, HTML, CSS)
 
