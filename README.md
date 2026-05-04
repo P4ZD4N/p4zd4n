@@ -12,7 +12,7 @@
 
 ## 💼 Proffesional experience
 
-- **Frontend Developer** at Santander Bank Polska (TypeScript, Angular)
+- **Frontend Developer** at Erste Bank Polska (TypeScript, Angular)
 - **Intern Frontend Developer** at Santander Bank Polska (TypeScript, Angular)
 - **Apprentice Frontend Developer** at Grupa ABS (JavaScript, HTML, CSS)
 
