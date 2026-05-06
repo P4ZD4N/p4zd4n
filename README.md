@@ -10,7 +10,7 @@
 - **Best practises** (Software architecture and Clean Code) 
 - **Business-oriented approach** (Understanding customer needs and translating it into effective solutions)
 
-## 💼 Proffesional experience
+## 💼 Professional experience
 
 - **Frontend Developer** at Erste Bank Polska (TypeScript, Angular)
 - **Intern Frontend Developer** at Santander Bank Polska (TypeScript, Angular)
